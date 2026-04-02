@@ -147,6 +147,13 @@ Final dataset includes:
 - Replace keyword-based tech extraction with learned models  
 
 ---
+<img width="1056" height="595" alt="Screenshot 2026-04-02 at 2 25 54 PM" src="https://github.com/user-attachments/assets/a7ed338e-9cbb-4ec1-aad8-1dbefe7b08db" />
+<img width="1053" height="593" alt="Screenshot 2026-04-02 at 2 26 10 PM" src="https://github.com/user-attachments/assets/232fabfa-f01a-4687-9bbd-76d0c2aa05cf" />
+<img width="1050" height="595" alt="Screenshot 2026-04-02 at 2 26 26 PM" src="https://github.com/user-attachments/assets/ff0e5068-6862-4d66-9a6c-999d213d0cea" />
+<img width="1048" height="591" alt="Screenshot 2026-04-02 at 2 26 38 PM" src="https://github.com/user-attachments/assets/bc3acb0d-43ef-4845-90ff-e65bf13b4e30" />
+
+
+
 
 ## Author
 Yining Mao
