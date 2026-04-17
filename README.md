@@ -1,6 +1,6 @@
 # AI Industry Analysis using NLP & Transformer Models
 
-## Overview
+## Overview 
 This project applies natural language processing and machine learning to ~200K news articles on artificial intelligence to extract structured insights from unstructured text. 
 
 The pipeline combines:
